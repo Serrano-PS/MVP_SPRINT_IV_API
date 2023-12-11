@@ -1,0 +1,343 @@
+mandante;visitante;mandante_ganhou
+Flamengo;Coritiba;1
+Botafogo;Sao Paulo;1
+Corinthians;Cruzeiro;1
+Bragantino;Bahia;1
+Atletico-MG;Vasco;0
+Gremio;Santos;1
+Athletico-PR;Goias;1
+Fortaleza;Internacional;0
+America-MG;Fluminense;0
+Fluminense;Athletico-PR;1
+Vasco;Palmeiras;0
+Sao Paulo;America-MG;1
+Santos;Atletico-MG;0
+Goias;Corinthians;1
+Cruzeiro;Gremio;1
+Internacional;Flamengo;1
+Coritiba;Fortaleza;0
+Bahia;Botafogo;0
+Flamengo;Botafogo;0
+Vasco;Bahia;0
+Palmeiras;Corinthians;1
+Santos;America-MG;1
+Bragantino;Cruzeiro;0
+Atletico-MG;Athletico-PR;1
+Internacional;Goias;1
+Coritiba;Sao Paulo;0
+Fortaleza;Fluminense;1
+Fluminense;Vasco;0
+Botafogo;Atletico-MG;1
+Sao Paulo;Internacional;1
+Corinthians;Fortaleza;0
+Goias;Palmeiras;0
+Cruzeiro;Santos;1
+Gremio;Bragantino;0
+Athletico-PR;Flamengo;1
+Bahia;Coritiba;1
+Flamengo;Goias;1
+Botafogo;Corinthians;1
+Palmeiras;Gremio;1
+Santos;Bahia;1
+Bragantino;America-MG;0
+Cruzeiro;Fluminense;0
+Internacional;Athletico-PR;0
+Coritiba;Vasco;0
+Fortaleza;Sao Paulo;0
+Vasco;Santos;0
+Palmeiras;Bragantino;0
+Corinthians;Sao Paulo;0
+Goias;Botafogo;1
+Atletico-MG;Internacional;1
+Gremio;Fortaleza;0
+Athletico-PR;Coritiba;1
+Bahia;Flamengo;0
+America-MG;Cruzeiro;0
+Flamengo;Corinthians;1
+Botafogo;Fluminense;1
+Sao Paulo;Vasco;1
+Santos;Palmeiras;0
+Bragantino;Athletico-PR;1
+Gremio;Internacional;1
+Coritiba;Atletico-MG;0
+Bahia;Goias;0
+America-MG;Fortaleza;1
+Flamengo;Cruzeiro;0
+Botafogo;America-MG;1
+Sao Paulo;Goias;1
+Corinthians;Fluminense;1
+Bragantino;Santos;1
+Atletico-MG;Palmeiras;0
+Internacional;Bahia;1
+Athletico-PR;Gremio;0
+Fortaleza;Vasco;1
+Fluminense;Bragantino;1
+Vasco;Flamengo;0
+Palmeiras;Coritiba;1
+Santos;Internacional;0
+Cruzeiro;Atletico-MG;0
+Gremio;Sao Paulo;1
+Athletico-PR;Botafogo;1
+Fortaleza;Bahia;0
+America-MG;Corinthians;1
+Flamengo;Gremio;1
+Botafogo;Fortaleza;1
+Sao Paulo;Palmeiras;0
+Goias;Fluminense;0
+Atletico-MG;Bragantino;0
+Internacional;Vasco;1
+Coritiba;Santos;0
+Bahia;Cruzeiro;0
+America-MG;Athletico-PR;0
+Fluminense;Atletico-MG;0
+Vasco;Goias;0
+Sao Paulo;Athletico-PR;1
+Santos;Corinthians;0
+Bragantino;Flamengo;1
+Cruzeiro;Fortaleza;0
+Gremio;America-MG;1
+Coritiba;Internacional;0
+Bahia;Palmeiras;1
+Fluminense;Bahia;1
+Palmeiras;Botafogo;0
+Santos;Flamengo;0
+Bragantino;Goias;1
+Cruzeiro;Sao Paulo;1
+Gremio;Coritiba;1
+Athletico-PR;Corinthians;1
+Fortaleza;Atletico-MG;1
+America-MG;Internacional;0
+Flamengo;Fortaleza;1
+Botafogo;Vasco;1
+Sao Paulo;Fluminense;1
+Corinthians;Bragantino;0
+Goias;Coritiba;0
+Atletico-MG;America-MG;0
+Internacional;Cruzeiro;0
+Athletico-PR;Palmeiras;0
+Bahia;Gremio;0
+Fluminense;Internacional;1
+Vasco;Cruzeiro;0
+Palmeiras;Flamengo;0
+Santos;Goias;1
+Bragantino;Sao Paulo;0
+Atletico-MG;Corinthians;0
+Gremio;Botafogo;0
+Coritiba;America-MG;1
+Fortaleza;Athletico-PR;1
+Fluminense;Flamengo;0
+Botafogo;Bragantino;1
+Sao Paulo;Santos;1
+Corinthians;Gremio;0
+Goias;Atletico-MG;0
+Cruzeiro;Coritiba;0
+Internacional;Palmeiras;0
+Athletico-PR;Bahia;1
+America-MG;Vasco;0
+Flamengo;America-MG;0
+Vasco;Athletico-PR;0
+Palmeiras;Fortaleza;1
+Santos;Botafogo;0
+Bragantino;Internacional;0
+Cruzeiro;Goias;0
+Gremio;Atletico-MG;1
+Coritiba;Fluminense;1
+Bahia;Corinthians;0
+Fluminense;Santos;1
+Botafogo;Coritiba;1
+Sao Paulo;Bahia;0
+Corinthians;Vasco;1
+Goias;Gremio;0
+Atletico-MG;Flamengo;0
+Athletico-PR;Cruzeiro;0
+Fortaleza;Bragantino;0
+America-MG;Palmeiras;0
+Fluminense;Palmeiras;1
+Vasco;Gremio;1
+Sao Paulo;Atletico-MG;0
+Santos;Athletico-PR;0
+Goias;Fortaleza;1
+Cruzeiro;Botafogo;0
+Internacional;Corinthians;0
+Coritiba;Bragantino;0
+Bahia;America-MG;1
+Flamengo;Sao Paulo;0
+Botafogo;Internacional;1
+Palmeiras;Cruzeiro;1
+Corinthians;Coritiba;1
+Bragantino;Vasco;0
+Atletico-MG;Bahia;1
+Gremio;Fluminense;1
+Fortaleza;Santos;1
+America-MG;Goias;0
+Fluminense;America-MG;1
+Vasco;Atletico-MG;1
+Sao Paulo;Botafogo;0
+Santos;Gremio;1
+Goias;Athletico-PR;0
+Cruzeiro;Corinthians;0
+Internacional;Fortaleza;0
+Coritiba;Flamengo;0
+Bahia;Bragantino;1
+Flamengo;Internacional;0
+Botafogo;Bahia;1
+Palmeiras;Vasco;1
+Corinthians;Goias;0
+Atletico-MG;Santos;1
+Gremio;Cruzeiro;1
+Athletico-PR;Fluminense;0
+Fortaleza;Coritiba;1
+America-MG;Sao Paulo;1
+Fluminense;Fortaleza;1
+Botafogo;Flamengo;0
+Sao Paulo;Coritiba;1
+Corinthians;Palmeiras;0
+Goias;Internacional;0
+Cruzeiro;Bragantino;0
+Athletico-PR;Atletico-MG;0
+Bahia;Vasco;0
+America-MG;Santos;1
+Flamengo;Athletico-PR;0
+Vasco;Fluminense;1
+Palmeiras;Goias;1
+Santos;Cruzeiro;0
+Bragantino;Gremio;1
+Atletico-MG;Botafogo;1
+Internacional;Sao Paulo;1
+Coritiba;Bahia;0
+Fortaleza;Corinthians;1
+Fluminense;Cruzeiro;1
+Vasco;Coritiba;1
+Sao Paulo;Fortaleza;0
+Corinthians;Botafogo;1
+Goias;Flamengo;0
+Gremio;Palmeiras;1
+Athletico-PR;Internacional;1
+Bahia;Santos;0
+America-MG;Bragantino;0
+Flamengo;Bahia;1
+Botafogo;Goias;0
+Sao Paulo;Corinthians;1
+Santos;Vasco;1
+Bragantino;Palmeiras;1
+Cruzeiro;America-MG;0
+Internacional;Atletico-MG;0
+Coritiba;Athletico-PR;1
+Fortaleza;Gremio;0
+Fluminense;Botafogo;0
+Vasco;Sao Paulo;0
+Palmeiras;Santos;0
+Corinthians;Flamengo;0
+Goias;Bahia;0
+Atletico-MG;Coritiba;0
+Internacional;Gremio;1
+Athletico-PR;Bragantino;0
+Fortaleza;America-MG;1
+Fluminense;Corinthians;0
+Vasco;Fortaleza;1
+Palmeiras;Atletico-MG;0
+Santos;Bragantino;0
+Goias;Sao Paulo;1
+Cruzeiro;Flamengo;0
+Gremio;Athletico-PR;0
+Bahia;Internacional;1
+America-MG;Botafogo;0
+Flamengo;Vasco;1
+Botafogo;Athletico-PR;0
+Sao Paulo;Gremio;1
+Corinthians;America-MG;0
+Bragantino;Fluminense;1
+Atletico-MG;Cruzeiro;0
+Internacional;Santos;1
+Coritiba;Palmeiras;0
+Bahia;Fortaleza;1
+Fluminense;Goias;1
+Vasco;Internacional;0
+Palmeiras;Sao Paulo;1
+Santos;Coritiba;1
+Bragantino;Atletico-MG;0
+Cruzeiro;Bahia;1
+Gremio;Flamengo;1
+Athletico-PR;America-MG;1
+Fortaleza;Botafogo;0
+Flamengo;Bragantino;1
+Palmeiras;Bahia;1
+Corinthians;Santos;0
+Goias;Vasco;0
+Atletico-MG;Fluminense;1
+Internacional;Coritiba;0
+Athletico-PR;Sao Paulo;0
+Fortaleza;Cruzeiro;0
+America-MG;Gremio;0
+Flamengo;Santos;0
+Botafogo;Palmeiras;0
+Sao Paulo;Cruzeiro;1
+Corinthians;Athletico-PR;1
+Goias;Bragantino;0
+Atletico-MG;Fortaleza;1
+Internacional;America-MG;0
+Coritiba;Gremio;0
+Bahia;Fluminense;1
+Fluminense;Sao Paulo;1
+Vasco;Botafogo;1
+Palmeiras;Athletico-PR;1
+Bragantino;Corinthians;1
+Cruzeiro;Internacional;0
+Gremio;Bahia;1
+Coritiba;Goias;0
+Fortaleza;Flamengo;0
+America-MG;Atletico-MG;0
+Flamengo;Palmeiras;1
+Botafogo;Gremio;0
+Sao Paulo;Bragantino;1
+Corinthians;Atletico-MG;0
+Goias;Santos;0
+Cruzeiro;Vasco;0
+Internacional;Fluminense;0
+Athletico-PR;Fortaleza;0
+America-MG;Coritiba;0
+Flamengo;Fluminense;0
+Vasco;America-MG;1
+Palmeiras;Internacional;1
+Santos;Sao Paulo;0
+Bragantino;Botafogo;0
+Atletico-MG;Goias;1
+Gremio;Corinthians;0
+Coritiba;Cruzeiro;1
+Bahia;Athletico-PR;0
+Fluminense;Coritiba;1
+Botafogo;Santos;0
+Corinthians;Bahia;0
+Goias;Cruzeiro;0
+Atletico-MG;Gremio;1
+Internacional;Bragantino;1
+Athletico-PR;Vasco;0
+Fortaleza;Palmeiras;0
+America-MG;Flamengo;0
+Flamengo;Atletico-MG;0
+Vasco;Corinthians;0
+Palmeiras;America-MG;1
+Santos;Fluminense;0
+Bragantino;Fortaleza;0
+Cruzeiro;Athletico-PR;0
+Gremio;Goias;1
+Coritiba;Botafogo;0
+Bahia;Sao Paulo;0
+Botafogo;Cruzeiro;0
+Palmeiras;Fluminense;1
+Corinthians;Internacional;0
+Bragantino;Coritiba;1
+Atletico-MG;Sao Paulo;1
+Gremio;Vasco;1
+Athletico-PR;Santos;1
+Fortaleza;Goias;1
+America-MG;Bahia;1
+Fluminense;Gremio;0
+Vasco;Bragantino;1
+Sao Paulo;Flamengo;1
+Santos;Fortaleza;0
+Goias;America-MG;1
+Cruzeiro;Palmeiras;0
+Internacional;Botafogo;1
+Coritiba;Corinthians;0
+Bahia;Atletico-MG;1

@@ -1,48 +1,63 @@
-[2023-12-10 17:18:31,126] INFO _log() L186   * Restarting with watchdog (windowsapi) - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:19:00,782] INFO _log() L186  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+[2023-12-11 18:22:07,942] INFO _log() L186  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
  * Running on http://127.0.0.1:5000
- * Running on http://192.168.15.11:5000 - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:19:00,790] INFO _log() L186  [33mPress CTRL+C to quit[0m - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:19:00,843] INFO _log() L186   * Restarting with watchdog (windowsapi) - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:19:16,255] INFO _log() L186  127.0.0.1 - - [10/Dec/2023 17:19:16] "GET /partidas HTTP/1.1" 200 - - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:19:24,511] INFO _log() L186  127.0.0.1 - - [10/Dec/2023 17:19:24] "GET /partidas?homeTeam=Botafogo-RJ HTTP/1.1" 200 - - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:19:24,711] INFO _log() L186  127.0.0.1 - - [10/Dec/2023 17:19:24] "POST /partida HTTP/1.1" 200 - - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:19:27,084] INFO _log() L186  127.0.0.1 - - [10/Dec/2023 17:19:27] "GET /partidas HTTP/1.1" 200 - - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:19:37,473] INFO _log() L186  127.0.0.1 - - [10/Dec/2023 17:19:37] "GET /partidas?homeTeam=Flamengo HTTP/1.1" 200 - - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:19:37,605] INFO _log() L186  127.0.0.1 - - [10/Dec/2023 17:19:37] "POST /partida HTTP/1.1" 200 - - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:19:39,226] INFO _log() L186  127.0.0.1 - - [10/Dec/2023 17:19:39] "GET /partidas HTTP/1.1" 200 - - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:19:59,644] INFO _log() L186   * Detected change in 'C:\\Users\\Pedro Serrano\\Dados\\Pós\\Github Pós\\mvp-qualidade-seguranca-sistemas-inteligentes\\MVP\\api\\model\\modelo.py', reloading - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:19:59,664] INFO _log() L186   * Detected change in 'C:\\Users\\Pedro Serrano\\Dados\\Pós\\Github Pós\\mvp-qualidade-seguranca-sistemas-inteligentes\\MVP\\api\\model\\modelo.py', reloading - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:20:02,320] INFO _log() L186   * Restarting with watchdog (windowsapi) - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:20:23,629] INFO _log() L186   * Restarting with watchdog (windowsapi) - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:20:58,138] INFO _log() L186   * Restarting with watchdog (windowsapi) - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:21:12,821] INFO _log() L186   * Restarting with watchdog (windowsapi) - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:21:24,109] INFO _log() L186   * Restarting with watchdog (windowsapi) - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:21:49,107] INFO _log() L186  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.15.9:5000 - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:22:07,958] INFO _log() L186  [33mPress CTRL+C to quit[0m - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:22:08,077] INFO _log() L186   * Restarting with watchdog (windowsapi) - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:41:20,166] INFO _log() L186   * Detected change in 'C:\\Users\\Pedro Serrano\\Dados\\Pós\\Github Pós\\mvp-qualidade-seguranca-sistemas-inteligentes\\MVP\\api\\MVP_SPRINT_IV_API\\test_modelos.py', reloading - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:41:20,170] INFO _log() L186   * Detected change in 'C:\\Users\\Pedro Serrano\\Dados\\Pós\\Github Pós\\mvp-qualidade-seguranca-sistemas-inteligentes\\MVP\\api\\MVP_SPRINT_IV_API\\test_modelos.py', reloading - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:41:22,297] INFO _log() L186   * Restarting with watchdog (windowsapi) - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:55:47,362] INFO _log() L186  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
  * Running on http://127.0.0.1:5000
- * Running on http://192.168.15.11:5000 - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:21:49,111] INFO _log() L186  [33mPress CTRL+C to quit[0m - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:21:49,213] INFO _log() L186   * Restarting with watchdog (windowsapi) - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:22:11,867] WARNING _log() L186   * Debugger is active! - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:22:11,921] INFO _log() L186   * Debugger PIN: 135-621-709 - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:44:16,932] INFO _log() L186   * Detected change in 'C:\\Users\\Pedro Serrano\\Dados\\Pós\\Github Pós\\mvp-qualidade-seguranca-sistemas-inteligentes\\MVP\\api\\schemas\\futebol_schema.py', reloading - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:44:17,984] INFO _log() L186   * Restarting with watchdog (windowsapi) - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:44:26,226] WARNING _log() L186   * Debugger is active! - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:44:26,242] INFO _log() L186   * Debugger PIN: 135-621-709 - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:45:15,522] INFO _log() L186  127.0.0.1 - - [10/Dec/2023 17:45:15] "GET /partidas HTTP/1.1" 200 - - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:47:02,530] INFO _log() L186  127.0.0.1 - - [10/Dec/2023 17:47:02] "GET /partidas HTTP/1.1" 200 - - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:47:10,703] INFO _log() L186  127.0.0.1 - - [10/Dec/2023 17:47:10] "GET /partidas?homeTeam=Athletico-PR HTTP/1.1" 200 - - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:47:12,978] INFO _log() L186  127.0.0.1 - - [10/Dec/2023 17:47:12] "GET /partidas HTTP/1.1" 200 - - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:47:36,552] INFO _log() L186  127.0.0.1 - - [10/Dec/2023 17:47:36] "GET /partidas?homeTeam=Criciuma HTTP/1.1" 200 - - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:47:38,428] INFO _log() L186  127.0.0.1 - - [10/Dec/2023 17:47:38] "GET /partidas HTTP/1.1" 200 - - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:48:12,689] INFO _log() L186   * Detected change in 'C:\\Users\\Pedro Serrano\\Dados\\Pós\\Github Pós\\mvp-qualidade-seguranca-sistemas-inteligentes\\MVP\\api\\model\\modelo.py', reloading - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:48:12,692] INFO _log() L186   * Detected change in 'C:\\Users\\Pedro Serrano\\Dados\\Pós\\Github Pós\\mvp-qualidade-seguranca-sistemas-inteligentes\\MVP\\api\\model\\modelo.py', reloading - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:48:12,695] INFO _log() L186   * Detected change in 'C:\\Users\\Pedro Serrano\\Dados\\Pós\\Github Pós\\mvp-qualidade-seguranca-sistemas-inteligentes\\MVP\\api\\model\\modelo.py', reloading - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:48:14,040] INFO _log() L186   * Restarting with watchdog (windowsapi) - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:49:07,898] INFO _log() L186  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
- * Running on all addresses (0.0.0.0)
- * Running on http://127.0.0.1:5000
- * Running on http://192.168.15.11:5000 - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
-[2023-12-10 17:49:07,910] INFO _log() L186  [33mPress CTRL+C to quit[0m - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+ * Running on http://192.168.15.9:5000 - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:55:47,369] INFO _log() L186  [33mPress CTRL+C to quit[0m - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:55:47,424] INFO _log() L186   * Restarting with watchdog (windowsapi) - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:56:01,467] WARNING get_partidas() L56   Não há partidas cadastradas na base :/ - call_trace=C:\Users\Pedro Serrano\Dados\Pós\Github Pós\mvp-qualidade-seguranca-sistemas-inteligentes\MVP\api\MVP_SPRINT_IV_API\app.py L56  
+[2023-12-11 18:56:01,476] INFO _log() L186  127.0.0.1 - - [11/Dec/2023 18:56:01] "[33mGET /partidas HTTP/1.1[0m" 404 - - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:56:05,990] WARNING get_partidas() L56   Não há partidas cadastradas na base :/ - call_trace=C:\Users\Pedro Serrano\Dados\Pós\Github Pós\mvp-qualidade-seguranca-sistemas-inteligentes\MVP\api\MVP_SPRINT_IV_API\app.py L56  
+[2023-12-11 18:56:05,994] INFO _log() L186  127.0.0.1 - - [11/Dec/2023 18:56:05] "[33mGET /partidas?homeTeam=Bahia HTTP/1.1[0m" 404 - - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:56:06,086] ERROR log_exception() L1449 Exception on /partida [POST] - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py L1449
+Traceback (most recent call last):
+  File "C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1519, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask_cors\extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1517, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1503, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask_openapi3\scaffold.py", line 191, in wrapper
+    resp = _do_wrapper(
+           ^^^^^^^^^^^^
+  File "C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask_openapi3\do_wrapper.py", line 135, in _do_wrapper
+    response = func(**request_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pedro Serrano\Dados\Pós\Github Pós\mvp-qualidade-seguranca-sistemas-inteligentes\MVP\api\MVP_SPRINT_IV_API\app.py", line 83, in predict
+    scaler = Model.carrega_modelo(ml_scaler)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pedro Serrano\Dados\Pós\Github Pós\mvp-qualidade-seguranca-sistemas-inteligentes\MVP\api\MVP_SPRINT_IV_API\model\modelo.py", line 17, in carrega_modelo
+    model = pickle.load(open(path, 'rb'))
+                        ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'ml_model/scaler.pkl'
+[2023-12-11 18:56:06,097] INFO _log() L186   * Detected change in 'C:\\Users\\Pedro Serrano\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\app.py', reloading - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:56:06,177] INFO _log() L186  127.0.0.1 - - [11/Dec/2023 18:56:06] "[35m[1mPOST /partida HTTP/1.1[0m" 500 - - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:56:06,182] INFO _log() L186   * Detected change in 'C:\\Users\\Pedro Serrano\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask_cors\\extension.py', reloading - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:56:06,190] INFO _log() L186   * Detected change in 'C:\\Users\\Pedro Serrano\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask_openapi3\\scaffold.py', reloading - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:56:06,196] INFO _log() L186   * Detected change in 'C:\\Users\\Pedro Serrano\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask_openapi3\\do_wrapper.py', reloading - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:56:07,825] INFO _log() L186   * Restarting with watchdog (windowsapi) - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:56:18,757] WARNING get_partidas() L56   Não há partidas cadastradas na base :/ - call_trace=C:\Users\Pedro Serrano\Dados\Pós\Github Pós\mvp-qualidade-seguranca-sistemas-inteligentes\MVP\api\MVP_SPRINT_IV_API\app.py L56  
+[2023-12-11 18:56:18,772] INFO _log() L186  127.0.0.1 - - [11/Dec/2023 18:56:18] "[33mGET /partidas HTTP/1.1[0m" 404 - - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:56:43,135] WARNING get_partidas() L56   Não há partidas cadastradas na base :/ - call_trace=C:\Users\Pedro Serrano\Dados\Pós\Github Pós\mvp-qualidade-seguranca-sistemas-inteligentes\MVP\api\MVP_SPRINT_IV_API\app.py L56  
+[2023-12-11 18:56:43,138] INFO _log() L186  127.0.0.1 - - [11/Dec/2023 18:56:43] "[33mGET /partidas?homeTeam=Botafogo-RJ HTTP/1.1[0m" 404 - - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:56:43,336] INFO _log() L186   * Detected change in 'C:\\Users\\Pedro Serrano\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\logging\\handlers.py', reloading - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:56:43,453] INFO _log() L186  127.0.0.1 - - [11/Dec/2023 18:56:43] "[35m[1mPOST /partida HTTP/1.1[0m" 500 - - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:56:43,455] INFO _log() L186   * Detected change in 'C:\\Users\\Pedro Serrano\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\cli.py', reloading - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 
+[2023-12-11 18:56:43,463] INFO _log() L186   * Detected change in 'C:\\Users\\Pedro Serrano\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\server.py', reloading - call_trace=C:\Users\Pedro Serrano\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L186 

@@ -14,7 +14,7 @@ avaliador = Avaliador()
 pre_processador = PreProcessador()
 
 # Parâmetros
-url_dados = "database/campeonato-brasileiro-full.csv"
+url_dados = "database/campeonato-brasileiro-golden.csv"
 colunas = ['mandante', 'visitante', 'mandante_ganhou']
 
 # Carga dos dados
@@ -52,7 +52,7 @@ def test_modelo_knn():
         modelo_knn, X_train, Y_train)
 
     # Testando as métricas do KNN
-    assert acuracia_knn >= 0.50
-    assert recall_knn >= 0.50
-    assert precisao_knn >= 0.50
-    assert f1_knn >= 0.50
+    assert acuracia_knn >= 0.6
+    assert recall_knn >= 0.55
+    assert precisao_knn >= 0.55
+    assert f1_knn >= 0.7

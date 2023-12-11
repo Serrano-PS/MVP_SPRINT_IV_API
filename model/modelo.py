@@ -37,33 +37,8 @@ class Model:
 
         X_input = np.array([mandante_index,
                             visitante_index,
-
                             ])
 
         # Faremos o reshape para que o modelo entenda que estamos passando
         vencendor = model.predict(X_input.reshape(1, -1))
         return int(vencendor[0])
-
-        # # Cria o DataFrame de entrada
-        # data = {'mandante':  [mandante_index],
-        #         'visitante': [visitante_index]
-        #         }
-
-        # atributos = ['mandante', 'visitante']
-        # entrada = pd.DataFrame(data, columns=atributos)
-
-        # array_entrada = entrada.values
-        # # Seleciona as colunas desejadas e converte para o tipo int
-        # X_entrada = array_entrada[:, 0:2].astype(int)
-
-        # # Cria um StandardScaler e ajusta aos dados de entrada
-        # scaler = StandardScaler()
-        # scaler.fit(X_entrada)
-
-        # # Padronização nos dados de entrada usando o scaler
-        # rescaled_entrada_X = scaler.transform(X_entrada)
-
-        # # Realiza a previsão com o modelo treinado
-        # vencedor = model.predict(rescaled_entrada_X)
-
-        # return int(vencedor[0])
